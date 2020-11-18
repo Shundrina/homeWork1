@@ -26,6 +26,10 @@ def thmstmprtnt():
     return 'did you forget?'
 
 
+def nthrtxtfnctn():
+    return 'just the last line, I promise'
+
+
 print(smthng())
 print(smthngls())
 print(scndbrnch())
@@ -34,3 +38,4 @@ print(thlstn())
 print()
 print(whtmdng())
 print(thmstmprtnt())
+print(nthrtxtfnctn())
