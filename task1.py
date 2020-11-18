@@ -14,7 +14,12 @@ def nbdwllrd():
     return 'some text for print'
 
 
+def thlstn():
+    return 'the most important text'
+
+
 print(smthng())
 print(smthngls())
 print(scndbrnch())
 print(nbdwllrd())
+print(thlstn())
