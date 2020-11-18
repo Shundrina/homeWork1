@@ -1,5 +1,5 @@
 def smthng():
-    return 'something new'
+    return 'something old'
 
 
 def smthngls():
