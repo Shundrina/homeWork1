@@ -17,8 +17,13 @@ def nbdwllrd():
 def thlstn():
     return 'the most important text'
 
+
 def whtmdng():
     return 'forget all you read before'
+
+
+def thmstmprtnt():
+    return 'did you forget?'
 
 
 print(smthng())
@@ -28,3 +33,4 @@ print(nbdwllrd())
 print(thlstn())
 print()
 print(whtmdng())
+print(thmstmprtnt())
