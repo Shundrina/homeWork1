@@ -3,7 +3,7 @@ def smthng():
 
 
 def smthngls():
-    return 'something else'
+    return 'something new'
 
 
 def scndbrnch():
