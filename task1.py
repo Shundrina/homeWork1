@@ -10,6 +10,11 @@ def scndbrnch():
     return 'one more line'
 
 
+def nbdwllrd():
+    return 'some text'
+
+
 print(smthng())
 print(smthngls())
 print(scndbrnch())
+print(nbdwllrd())
