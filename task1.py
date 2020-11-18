@@ -18,8 +18,24 @@ def thlstn():
     return 'the most important text'
 
 
+def whtmdng():
+    return 'forget all you read before'
+
+
+def thmstmprtnt():
+    return 'did you forget?'
+
+
+def nthrtxtfnctn():
+    return 'just the last line, I promise'
+
+
 print(smthng())
 print(smthngls())
 print(scndbrnch())
 print(nbdwllrd())
 print(thlstn())
+print()
+print(whtmdng())
+print(thmstmprtnt())
+print(nthrtxtfnctn())
