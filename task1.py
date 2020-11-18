@@ -11,7 +11,7 @@ def scndbrnch():
 
 
 def nbdwllrd():
-    return 'some text'
+    return 'some text for print'
 
 
 print(smthng())
